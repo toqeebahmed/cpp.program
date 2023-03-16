@@ -11,7 +11,7 @@ int main ()
  }
  else 
  { 
- cout <<"a is not greater than are equal to b";
+ cout <<"a is not greater than are equal to b;
  
  }
 }
